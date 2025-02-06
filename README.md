@@ -11,8 +11,7 @@ Bu proje, C# ve SQL veritabanı kullanılarak geliştirilmiş bir pansiyon yöne
 ✔ SQL Entegrasyonu – Verilerin güvenli bir şekilde saklanmasını sağlar.
 
 🛠 Kullanılan Teknolojiler
-C# & .NET (Hangi versiyonu kullanıyorsan buraya ekleyebilirsin)
-SQL Server
+C# & .NET SQL Server
 Windows Forms (WinForms)
 
 📩 Geri bildirimleriniz ve önerileriniz için iletişime geçebilirsiniz!
